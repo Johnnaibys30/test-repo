@@ -1,13 +1,14 @@
 let remainder =(15 % 2);
 console.log(remainder);
 // part two 
-let remainder2 =(30 % 2);
-console.log(remainder2);
-// part3 
-let random1 = Math.random()*100;
-console.log(random1);
-let random1 = Math.random()*100;
-console.log(random1);
-// round numbers
-let first= 81.73;
-console.log(Math,round(first);
+const rem2=(30%2);
+console.log("The remainder of 30/2 is" +  rem2)
+
+let random = Math.random()*1000
+console.log(random)
+console.log(Math.floor(random));
+console.log(Math.floor(Math.random()*1000));
+console.log(Math.round(Math.random()*1000));
+console.log(Math.abs(Math.random()*1000))
+let random2=Math.random()*1000)
+console.log(random2)
