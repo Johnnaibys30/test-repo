@@ -16,4 +16,4 @@ let myName;
 
 let say = "hello"
 let things = "goodbye"
-console logclass1.js
+console log class1.js

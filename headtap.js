@@ -21,7 +21,7 @@
     console.log(upperCased, "<-- Hardest1");
 
 // * 
-   Let ply1= ("you"); + ply2= ("computer")
+   Let ply1 = ("you"); + ply2 = ("computer")
   
    console.log(randomNumber)
    function getRandomNumber (){

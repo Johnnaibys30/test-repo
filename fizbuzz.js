@@ -17,11 +17,12 @@
 function fiz(one,two,three,four,){
     let fizbb =null;
     if(one ==="1")
-       fizbb ="2",
-       if(three===fizz){
+       fizbb ="2"
+        if(three===fizz){
             fizbb="4"
             return fizbb;
 
        }
+    } 
 constsavescopeexample= fiz (one);
-console.log(savescopeexample);
+console.log(savescopeexample); 
