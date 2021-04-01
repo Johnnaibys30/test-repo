@@ -1,15 +1,16 @@
 p{ 
     margin-left: 150px;
-    
-    border:color blue 
+    border-width: 20px;
+    border-color: blue; 
+    border-style: solid;
     
 
 }
- h1{ line-height:30px;
- }
- p{
-     color : skyblue
-     bakround-color: red
- }
+ h1{ line-height: 150px;
+ 
+ 
+     color : rgb(63, 158, 195);
+     background-color: crimson;
+     }
 
  

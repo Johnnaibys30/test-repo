@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    border: 1 px solid red;
+}
+
+header{
+    height: 75px;
+    border: 1px solid purple;
+
+}
+ul{ diplay: flex;
+}
