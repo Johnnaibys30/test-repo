@@ -1,0 +1,27 @@
+ 
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+section{  
+    background-color:cornflowerblue;
+    min-height: 500px;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 100px;
+    padding: 35px;
+    box-sizing: border-box;
+    
+  }
+.display{
+    height: 20px;
+    background-color: cornsilk;
+    border:1px solid navy;
+}
+#container{
+    width: 90%;
+    background-color:max-content;
+    border:8px
+}
+

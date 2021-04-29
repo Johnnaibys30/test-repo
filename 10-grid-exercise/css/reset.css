@@ -29,6 +29,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	font-family: 'Syne Mono', monospace;
+	display
+	'
 	line-height: 1;
 }
 ol, ul {
@@ -59,15 +62,18 @@ h1{
 
 }
 #grid-container{
+	height: 400px
+	Width: 400px
 	display: grid;
-	grid-template-columns:25%;
-	grid-template-rows :25%;
+	grid-template-columns:repeat(4, 1fr);
+	grid-template-rows :repeat(2,1fr);
 	display:flex;
 	grid: row start 1;
 	grid-column-start: 1;
-
+    background-color: cadetblue;
+	justify-content: center;
 }
-img{ 
+.img-conatainer{ 
 	width: 20 %
 	height: 20%
 }
